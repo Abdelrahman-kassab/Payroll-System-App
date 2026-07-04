@@ -27,5 +27,20 @@ The system calculates net payable cash using the following logic:
 2. Clone this repository or download the `main.py` file.
 3. Open your terminal/command prompt, navigate to the file directory, and run:
 
+#📄 Sample Output
+--- 🏢 Corporate Payroll System 🏢 ---
+Enter Employee Name: Ahmed Mohamed
+Enter Base Salary (EGP): 5000
+Enter Performance Rating: 5
+
+========================================
+📄 PAYROLL STATEMENT FOR: Ahmed Mohamed
+========================================
+• Base Salary:       5000.00 EGP
+• Earned Bonus:      1000.00 EGP
+• Tax Deductions:    600.00 EGP
+----------------------------------------
+💰 NET PAYABLE CASH: 5400.00 EGP
+========================================
 ```bash
 python main.py
